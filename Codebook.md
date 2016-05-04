@@ -85,7 +85,7 @@ subject_train.txt: 7352 rows of 1 variable. This is subject identifier.
 ***
 ###Description of variables in the Tidy Data
 
-Variable Name	Details
+Variable Name    Details
 activityName	Factor with 6 levels WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 subjectId	Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
 tBodyAccMeanX	Average of Mean Value time doman Body Accelration in x direction
@@ -94,7 +94,7 @@ tBodyAccMeanZ	Average of Mean Value time doman Body Accelration in Z direction
 tBodyAccStdX	Average of Standard deviation time doman Body Accelration in x direction
 tBodyAccStdY	Average of Standard deviation time doman Body Accelration in Y direction
 tBodyAccStdZ	Average of Standard deviation time doman Body Accelration in Z direction
-tGravityAccMeanX	Average of Mean Value time doman Gravity Accelrationin x direction
+tGravityAccMeanX    Average of Mean Value time doman Gravity Accelrationin x direction
 tGravityAccMeanY	Average of Mean Value time doman Gravity Accelrationin Y direction
 tGravityAccMeanZ	Average of Mean Value time doman Gravity Accelrationin Z direction
 tGravityAccStdX	Average of Standard deviation time doman Gravity Accelrationin x direction
@@ -155,16 +155,3 @@ fBodyBodyGyroMagStd	Average of Standard deviation frequency domainBody Body Gyro
 fBodyBodyGyroJerkMagMean	Average of Mean Value frequency domainBody Body Gyro jerk magnitude
 fBodyBodyGyroJerkMagStd	Average of Standard deviation frequency domainBody Body Gyro jerk magnitude
 
-
-
-
-
-
-
-
-
-
-
-
-
- 

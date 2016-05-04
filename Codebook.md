@@ -67,7 +67,7 @@ X_Train.txt: 7352 rows of 561 measurement variables. These measurement variables
 y_Train.txt: 7352 rows of 1 variable. This is activity identifier.
 subject_train.txt: 7352 rows of 1 variable. This is subject identifier.
 
-
+***
 ###Detailed Functions of "run_analysis.R" Script
 - Download and extrat the raw data
 - Install.packages("dplyr")
